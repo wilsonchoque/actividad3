@@ -1,0 +1,14 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+ul{
+    margin-left: 120px;
+    font-size: 25px;
+}
+
